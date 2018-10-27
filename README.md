@@ -1,3 +1,7 @@
 # hello-world
-:)
-Had to do it.
+#write it properly
+
+def hello world():
+  print ("hello world")
+
+hello world()
